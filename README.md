@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ayush-yadav1
-- 👀 I’m interested in Ui/Ux Design
-- 🌱 I’m currently learning B.Tech-Mechanical engineering
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @Ayush-yadav1.
+- 👀 I’m interested in Ui/Ux Design.
+- 🌱 I’m currently learning B.Tech-Mechanical engineering.
+- 💞️ I’m looking to collaborate on Ui/Ux designs.
 - 📫 How to reach me yadavayush39353@gmail.com
 
 <!---
